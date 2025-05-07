@@ -1,7 +1,7 @@
 <!-- <p align="center">
     <img src="assets/a-logo-representing - omnicreator - -a-powerful-ai-t.png" width="150" style="margin-bottom: 0.2;"/>
 <p> -->
-<h2 align="center"> <a href="https://arxiv.org/abs/2504.13122">	FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance</a></h2>
+<h2 align="center"> FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance</h2>
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
 <div align="center">
@@ -19,7 +19,9 @@ Northwestern Polytechnical University
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
  <a href='https://arxiv.org/abs/2504.13122'><img src='https://img.shields.io/badge/arXiv-2504.13122-b31b1b.svg'></a> &nbsp;
-
+ <a href='https://smartdianlab.github.io/projects-FinePhys/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+<br>
+<strong>IEEE/CVF Computer Vision and Pattern Recognition (CVPR) 2025</strong>
 </div>
 
 ## Abstract

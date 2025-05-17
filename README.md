@@ -29,7 +29,7 @@ Although remarkable progress has been achieved in video generation, synthesizing
 
 <table class="center">
     <tr>
-    <td><img src="assets/finephys.png"></td>
+    <td><img src="assets/cvpr25_poster-sd-v3_00(1).png"></td>
     </tr>
 </table>
  

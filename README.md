@@ -34,12 +34,13 @@ Although remarkable progress has been achieved in video generation, synthesizing
 </table>
  
 ## 🔥 Update
+- __[2025.05.20]__: Released our FinePhys [Paper](https://arxiv.org/abs/2505.13437).
 - __[2025.05.07]__: Initialized this github repository and README.
 
 
 ## 🧰 TODO
 
-- [ ] Release Paper.
+- [x] Release Paper.
 - [ ] Release training code
 - [ ] Release inference code.
 - [ ] Release model weights.

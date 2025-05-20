@@ -62,7 +62,7 @@ Coming Soon~
 
 
 ## 📝 Citation
-Please consider citing our paper if our code and benchmark are useful:
+Please consider citing our paper if our work is useful:
 ```bib
 @article{shao2025finephys,
     title={FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance},

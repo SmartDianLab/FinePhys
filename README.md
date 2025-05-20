@@ -64,7 +64,12 @@ Coming Soon~
 ## 📝 Citation
 Please consider citing our paper if our code and benchmark are useful:
 ```bib
-TBD...
+@article{shao2025finephys,
+    title={FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance},
+    author={Shao, Dian and Shi, Mingfei and Xu, Shengda and Chen, Haodong and Huang, Yongle and Wang, Binglu},
+    journal={arXiv preprint arXiv:2505.13437},
+    year={2025}
+}
 ```
 
 
